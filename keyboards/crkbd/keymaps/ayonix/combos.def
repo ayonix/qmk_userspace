@@ -1,0 +1,33 @@
+/*
+COMBO_REF_LAYER(GAME, GAME)
+DEFAULT_REF_LAYER(BASE)
+*/
+
+COMB(x_combo,       DE_X,       DE_O, DE_U)
+
+/* tnrd
+COMB(nuhs_combo,    DE_LABK,   LSFT_T(DE_D), DE_G)
+COMB(nubs_combo,    DE_RABK,   RSFT_T(DE_S), DE_H)
+COMB(lparen_combo,  DE_LPRN,   LSFT_T(DE_D), DE_W)
+COMB(rparen_combo,  DE_RPRN,   RSFT_T(DE_S), DE_Y)
+COMB(lcbr_combo,    DE_LCBR,   LCTL_T(DE_R), DE_L)
+COMB(rcbr_combo,    DE_RCBR,   RCTL_T(DE_E), DE_O)
+COMB(lbrc_combo,    DE_LBRC,   LALT_T(DE_N), DE_B)
+COMB(rbrc_combo,    DE_RBRC,   LALT_T(DE_I), DE_U)
+*/
+
+/* srnt
+COMB(nuhs_combo,    DE_LABK,    LSFT_T(DE_T), DE_D)
+COMB(nubs_combo,    DE_RABK,    RSFT_T(DE_H), DE_F)
+COMB(lparen_combo,  DE_LPRN,    LSFT_T(DE_T), DE_G)
+COMB(rparen_combo,  DE_RPRN,    RSFT_T(DE_H), DE_B)
+COMB(lcbr_combo,    DE_LCBR,    LCTL_T(DE_N), DE_M)
+COMB(rcbr_combo,    DE_RCBR,    RCTL_T(DE_E), DE_O)
+COMB(lbrc_combo,    DE_LBRC,    LALT_T(DE_R), DE_L)
+COMB(rbrc_combo,    DE_RBRC,    LALT_T(DE_I), DE_U)
+COMB(q_combo,       DE_Q,       DE_L, DE_M)
+*/
+
+/* GAME */
+COMB(g_combo,       DE_G,       DE_R, DE_F)
+COMB(b_combo,       DE_B,       DE_V, DE_F)
