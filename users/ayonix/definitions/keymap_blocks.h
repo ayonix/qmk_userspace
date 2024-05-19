@@ -51,9 +51,9 @@
 #define ___________GAME_R3___________ DE_N, DE_M, DE_COMM, RALT_T(DE_DOT), DE_MINS, KC_F13
 #define ___________GAME_R4___________ GAME_RT1 , GAME_RT2, GAME_RT3
 
-#define ___________GAME2_L1___________ DE_3, KC_F5, KC_F1, KC_F2, KC_F3, KC_F4
-#define ___________GAME2_L2___________ DE_2, DE_5, DE_1, DE_2, DE_3, DE_4
-#define ___________GAME2_L3___________ DE_1, DE_T, DE_O, DE_I, DE_M, DE_B
+#define ___________GAME2_L1___________ KC_F3, KC_F6, KC_7, KC_8, KC_9, KC_T
+#define ___________GAME2_L2___________ KC_F2, KC_F5, DE_4, DE_5, DE_6, DE_G
+#define ___________GAME2_L3___________ KC_F1, KC_F4, DE_1, DE_2, DE_3, DE_B
 #define ___________GAME2_L4___________ _______ , _______ , _______
 
 #define GAME2_RT1 GAME_RT1
