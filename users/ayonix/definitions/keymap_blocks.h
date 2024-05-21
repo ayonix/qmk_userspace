@@ -38,9 +38,9 @@
 #define GAME_LT1 LALT_T(KC_ESC)
 #define GAME_LT2 KC_SPC
 #define GAME_LT3 MO(GAME2)
-#define ___________GAME_L1___________ DE_3, KC_TAB, DE_Q, DE_W, DE_E, DE_R
-#define ___________GAME_L2___________ DE_2, KC_LSFT, DE_A, DE_S, DE_D, DE_F
-#define ___________GAME_L3___________ DE_1, KC_LCTL, DE_Y, DE_X, DE_C, DE_V
+#define ___________GAME_L1___________ KC_F3, KC_TAB, DE_Q, DE_W, DE_E, DE_R
+#define ___________GAME_L2___________ KC_F2, KC_LSFT, DE_A, DE_S, DE_D, DE_F
+#define ___________GAME_L3___________ KC_F1, KC_LCTL, DE_Y, DE_X, DE_C, DE_V
 #define ___________GAME_L4___________ GAME_LT1 , GAME_LT2 , GAME_LT3
 
 #define GAME_RT1 LT(SYM,KC_ENT)
@@ -51,9 +51,9 @@
 #define ___________GAME_R3___________ DE_N, DE_M, DE_COMM, RALT_T(DE_DOT), DE_MINS, KC_F13
 #define ___________GAME_R4___________ GAME_RT1 , GAME_RT2, GAME_RT3
 
-#define ___________GAME2_L1___________ KC_F3, KC_F6, KC_7, KC_8, KC_9, KC_T
-#define ___________GAME2_L2___________ KC_F2, KC_F5, DE_4, DE_5, DE_6, DE_G
-#define ___________GAME2_L3___________ KC_F1, KC_F4, DE_1, DE_2, DE_3, DE_B
+#define ___________GAME2_L1___________ KC_F6, KC_F9, KC_7, KC_8, KC_9, KC_T
+#define ___________GAME2_L2___________ KC_F5, KC_F8, KC_4, KC_5, KC_6, KC_G
+#define ___________GAME2_L3___________ KC_F4, KC_F7, KC_1, KC_2, KC_3, KC_B
 #define ___________GAME2_L4___________ _______ , _______ , _______
 
 #define GAME2_RT1 GAME_RT1
